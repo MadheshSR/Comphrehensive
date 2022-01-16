@@ -1,0 +1,4 @@
+2022-01-16 14:40:46,108  INFO [main] downloadappStepDef:14 - URL Opened
+2022-01-16 14:40:47,183  INFO [main] downloadappStepDef:14 - playstore is clicked in page playstore
+2022-01-16 14:40:53,264  INFO [main] downloadappStepDef:14 - playsrore detail shown 
+2022-01-16 14:40:54,024  INFO [main] downloadappStepDef:14 - home page is clicked in page home page

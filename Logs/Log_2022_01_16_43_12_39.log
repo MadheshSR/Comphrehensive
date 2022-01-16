@@ -1,0 +1,5 @@
+2022-01-16 12:43:53,586  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-16 12:43:56,458  INFO [main] validpageStepDef:14 - local is clicked in page local
+2022-01-16 12:43:57,461  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-16 12:43:58,641  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-16 12:43:59,284 ERROR [main] validpageStepDef:21 - froms is not able clicked in page rom

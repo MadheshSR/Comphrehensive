@@ -1,0 +1,11 @@
+2022-01-16 13:11:03,853  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-16 13:11:07,043  INFO [main] validpageStepDef:14 - round is clicked in page round
+2022-01-16 13:11:07,909  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-16 13:11:08,626  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-16 13:11:09,565  INFO [main] validpageStepDef:14 - place is clicked in page to
+2022-01-16 13:11:10,290  INFO [main] validpageStepDef:14 - place is send in page to
+2022-01-16 13:11:11,149  INFO [main] validpageStepDef:14 - place is clicked in page to
+2022-01-16 13:11:16,265  INFO [main] validpageStepDef:14 - selected is clicked in page select
+2022-01-16 13:11:19,117  INFO [main] validpageStepDef:14 - select car is clicked in page select
+2022-01-16 13:11:20,226  INFO [main] validpageStepDef:14 - booking detail shown 
+2022-01-16 13:11:20,926  INFO [main] validpageStepDef:14 - home page is clicked in page home page

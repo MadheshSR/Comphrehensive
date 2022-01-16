@@ -1,0 +1,10 @@
+2022-01-16 16:29:17,472  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-16 16:29:18,688  INFO [main] validpageStepDef:14 - airport is clicked in page airport
+2022-01-16 16:29:19,809  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-16 16:29:20,543  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-16 16:29:21,321  INFO [main] validpageStepDef:14 - from is clicked in page from
+2022-01-16 16:29:22,339  INFO [main] validpageStepDef:14 - dropaddress is clicked in page address
+2022-01-16 16:29:22,988  INFO [main] validpageStepDef:14 - dropaddress is send in page address
+2022-01-16 16:29:24,075  INFO [main] validpageStepDef:14 - dropaddress is clicked in page address
+2022-01-16 16:29:25,164  INFO [main] validpageStepDef:14 - selected is clicked in page select
+2022-01-16 16:29:27,371 ERROR [main] validpageStepDef:21 - select car is not able clicked in page select

@@ -1,0 +1,7 @@
+2022-01-16 15:46:15,922  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-16 15:46:18,335  INFO [main] validpageStepDef:14 - airport is clicked in page airport
+2022-01-16 15:46:20,350  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-16 15:46:21,527  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-16 15:46:24,098  INFO [main] validpageStepDef:14 - dropaddress is clicked in page address
+2022-01-16 15:46:24,806  INFO [main] validpageStepDef:14 - dropaddress is send in page address
+2022-01-16 15:46:25,438 ERROR [main] validpageStepDef:21 - dropaddress is not able clicked in page address

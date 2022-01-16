@@ -1,0 +1,129 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Sun Jan 16 17:52:22 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>269 seconds (269473 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "corporate car rental page", "Optional[Corporate car rental]"</td>
+<td></td>
+<td>46</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "selecting chen-trl in in onewaycab", "Optional[Oneway cab page]"</td>
+<td></td>
+<td>36</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "Validating With valid Email And Password", "Optional[Log in Validation]"</td>
+<td></td>
+<td>17</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "signout application", "Optional[signout app]"</td>
+<td></td>
+<td>42</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "selecting car in airport", "Optional[airport book]"</td>
+<td></td>
+<td>24</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "verify download app", "Optional[download app]"</td>
+<td></td>
+<td>15</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "selecting car in local", "Optional[local book]"</td>
+<td></td>
+<td>19</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "selecting car in outstation", "Optional[Outstation book]"</td>
+<td></td>
+<td>24</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "selecting car in roundtrip", "Optional[roundtrip book]"</td>
+<td></td>
+<td>29</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+<tr>
+<td title='com.mindtree.runner.BDDTestRunner.runScenario()'><b>runScenario</b><br>Test class: com.mindtree.runner.BDDTestRunner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "validate the page title", "Optional[Validate Page]"</td>
+<td></td>
+<td>10</td>
+<td>com.mindtree.runner.BDDTestRunner@67f639d3</td></tr>
+</table><p>
+</body>
+</html>

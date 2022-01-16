@@ -1,0 +1,11 @@
+2022-01-16 15:24:42,445  INFO [main] outstationStepDef:14 - URL Opened
+2022-01-16 15:24:43,447  INFO [main] outstationStepDef:14 - car rental is clicked in page rental
+2022-01-16 15:24:50,343  INFO [main] outstationStepDef:14 - name is clicked in page name
+2022-01-16 15:24:51,223  INFO [main] outstationStepDef:14 - name is send in page name
+2022-01-16 15:24:52,183  INFO [main] outstationStepDef:14 - company name is clicked in page compname
+2022-01-16 15:24:52,980  INFO [main] outstationStepDef:14 - company name is send in page compname
+2022-01-16 15:24:53,961  INFO [main] outstationStepDef:14 - email is clicked in page email
+2022-01-16 15:24:54,759  INFO [main] outstationStepDef:14 - email is send in page email
+2022-01-16 15:24:55,739  INFO [main] outstationStepDef:14 - phone no is clicked in page phoneno
+2022-01-16 15:24:56,535  INFO [main] outstationStepDef:14 - phone no is send in page phoneno
+2022-01-16 15:24:57,895  INFO [main] outstationStepDef:14 - submit is clicked in page submit

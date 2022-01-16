@@ -1,0 +1,5 @@
+2022-01-16 16:19:06,655  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-16 16:19:08,304  INFO [main] validpageStepDef:14 - airport is clicked in page airport
+2022-01-16 16:19:09,694  INFO [main] validpageStepDef:14 - from place is clicked in page from
+2022-01-16 16:19:10,619  INFO [main] validpageStepDef:14 - place is send in page from
+2022-01-16 16:19:11,236 ERROR [main] validpageStepDef:21 - from is not able clicked in page from

@@ -1,0 +1,4 @@
+2022-01-16 11:13:38,694  INFO [main] validpageStepDef:14 - URL Opened
+2022-01-16 11:13:40,843  INFO [main] validpageStepDef:14 - local is clicked in page local
+2022-01-16 11:13:41,780  INFO [main] validpageStepDef:14 - selected is clicked in page select
+2022-01-16 11:13:44,588 ERROR [main] validpageStepDef:21 - time is not able clicked in page time

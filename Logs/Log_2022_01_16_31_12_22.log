@@ -1,0 +1,9 @@
+2022-01-16 12:31:31,312  INFO [main] outstationStepDef:14 - URL Opened
+2022-01-16 12:31:32,381  INFO [main] outstationStepDef:14 - from place is clicked in page from
+2022-01-16 12:31:33,206  INFO [main] outstationStepDef:14 - place is send in page from
+2022-01-16 12:31:34,065  INFO [main] outstationStepDef:14 - place is clicked in page to
+2022-01-16 12:31:34,914  INFO [main] outstationStepDef:14 - place is send in page to
+2022-01-16 12:31:35,749  INFO [main] outstationStepDef:14 - place is clicked in page to
+2022-01-16 12:31:40,858  INFO [main] outstationStepDef:14 - selected is clicked in page select
+2022-01-16 12:31:43,149  INFO [main] outstationStepDef:14 - Successfully verified
+2022-01-16 12:31:45,919  INFO [main] outstationStepDef:14 - home page is clicked in page home page

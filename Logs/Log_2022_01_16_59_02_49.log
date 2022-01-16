@@ -1,0 +1,16 @@
+2022-01-16 14:59:59,169  INFO [main] outstationStepDef:14 - URL Opened
+2022-01-16 15:00:00,188  INFO [main] outstationStepDef:14 - signin is clicked in page home page
+2022-01-16 15:00:05,918  INFO [main] outstationStepDef:14 - Email field is send in page Account Log in
+2022-01-16 15:00:06,435  INFO [main] outstationStepDef:14 - password field is send in page Account Log in
+2022-01-16 15:00:07,132  INFO [main] outstationStepDef:14 - sign in button is clicked in page Account Log in
+2022-01-16 15:00:07,940  INFO [main] outstationStepDef:14 - img is clicked in page img
+2022-01-16 15:00:10,885  INFO [main] outstationStepDef:14 - bookings is clicked in page bookings
+2022-01-16 15:00:13,869  INFO [main] outstationStepDef:14 - cancelled is clicked in page cancelled
+2022-01-16 15:00:16,417  INFO [main] outstationStepDef:14 - completed is clicked in page completed
+2022-01-16 15:00:19,156  INFO [main] outstationStepDef:14 - booknow is clicked in page booknow
+2022-01-16 15:00:22,026  INFO [main] outstationStepDef:14 - img is clicked in page img
+2022-01-16 15:00:25,009  INFO [main] outstationStepDef:14 - accountsetting is clicked in page accountsetting
+2022-01-16 15:00:28,207  INFO [main] outstationStepDef:14 - home is clicked in page home
+2022-01-16 15:00:31,074  INFO [main] outstationStepDef:14 - img is clicked in page img
+2022-01-16 15:00:34,055  INFO [main] outstationStepDef:14 - logout is clicked in page logout
+2022-01-16 15:00:34,880  INFO [main] outstationStepDef:14 - Signed out sucessfully 
